@@ -1,7 +1,7 @@
 /* Accept N number from user and return smallest number from them
-	Input:	             N:   6
-				Elements:   85  66  103  93  65  104
-	Output:					65													*/
+	Input:	  N:   6
+		  Elements:   85  66  103  93  65  104
+	Output:	  65													*/
 	
 #include<stdio.h>
 #include<stdlib.h>
