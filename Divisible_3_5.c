@@ -1,8 +1,7 @@
 /*	Accept N numbers from user and display all such numbers which are divisible by 3 & 5
-	Input: 
-				N: 10
-				Elements: 3   15   21  30  45   75   35   30   60   150
-	Output:  15  30  45  75  30  60  150																*/
+	Input: 	N: 10
+		Elements: 3   15   21  30  45   75   35   30   60   150
+	Output:  15  30  45  75  30  60  150						*/
 	
 #include<stdio.h>
 #include<stdlib.h>
