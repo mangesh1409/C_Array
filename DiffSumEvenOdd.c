@@ -1,8 +1,7 @@
 /*    Accept N numbers from user and return difference between summation of even numbers and summation of odd numbers.
-	  Input :
-				N : 6
-				Elements : 85  66  3  80  93  88
-	  Output : 53 (234 - 181)													*/
+	  Input :   N : 6
+		    Elements : 85  66  3  80  93  88
+	  Output :  53 (234 - 181)													*/
 
 #include<stdio.h>
 #include<stdlib.h>
