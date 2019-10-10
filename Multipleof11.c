@@ -1,7 +1,7 @@
 /*	Accept N numbers from user and display all such numbers which are multiple of 11
 	Input: 
-				N: 10
-				Elements: 11  21  88   32   44   77   99  110   120   66
+		N: 10
+		Elements: 11  21  88   32   44   77   99  110   120   66
 	 Output:  11   88   44   77   99   110   66																*/
 	
 #include<stdio.h>
