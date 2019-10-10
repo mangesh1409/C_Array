@@ -1,7 +1,7 @@
 /* Accept N number from user and return largest number from them
-	Input:	             N: 6
-				Elements:  85  66  103  93  88  104
-	Output:					104													*/
+	Input:	N: 6
+		Elements:  85  66  103  93  88  104
+	Output:	104													*/
 	
 #include<stdio.h>
 #include<stdlib.h>
