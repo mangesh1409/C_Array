@@ -1,8 +1,8 @@
 /*    Accept N numbers from user and return product of all odd numbers
 	  Input :
-				N : 6
-				Elements : 85  66  3  80  93  88
-	  Output :     	23715																	*/
+		   N : 6
+		   Elements : 85  66  3  80  93  88
+	  Output : 23715						*/
 
 #include<stdio.h>
 #include<stdlib.h>
