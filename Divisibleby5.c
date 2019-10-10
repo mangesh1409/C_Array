@@ -1,7 +1,6 @@
 /* Accept N numbers from user and display all such numbers which are divisible by 5
-	Input: 
-				N: 6
-				Elements: 12  45  45  90  21  25  
+	Input: 	N: 6
+		Elements: 12  45  45  90  21  25  
 	Output:  45  45  90  25										*/
 
 #include<stdio.h>
