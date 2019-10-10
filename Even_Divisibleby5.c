@@ -1,8 +1,7 @@
 /*	Accept N numbers from user and display all such numbers which are even and divisible by 5.
-	Input: 
-				N: 10
-				Elements: 85  50  24  100  110   28   30   32   21   40
-	Output:  50  100  110  30  40																*/
+	Input: 	N: 10
+		Elements: 85  50  24  100  110   28   30   32   21   40
+	Output:  50  100  110  30  40								*/
 	
 #include<stdio.h>
 #include<stdlib.h>
