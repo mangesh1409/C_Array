@@ -1,8 +1,7 @@
 /*    Accept N numbers from user and return diffrence between frequency of even numbers & odd numbers
-	  Input :
-				N : 10
-				Elements : 85  66  30  45  66  65  66 18  66  32
-	  Output :		  4 (7-3) 																		*/
+	  Input :  N : 10
+		   Elements : 85  66  30  45  66  65  66 18  66  32
+	  Output :  4 (7-3) 																		*/
 
 #include<stdio.h>
 #include<stdlib.h>
